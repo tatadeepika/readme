@@ -1,0 +1,34 @@
+body{
+	background-color: #638985;
+	padding: 10%;
+}
+
+#main{
+	background-color: #24D471;
+	margin: 10%;
+	/*padding: 4%;*/
+	display: flex;
+	justify-content: space-around;
+	border-radius: 4%;
+}
+.sub{
+	background-color: #2BA661;
+	width: 25%;
+	margin: 4%;
+	border-radius: 4%;
+	text-align: center;
+	box-shadow: 4px 4px 5px 5px;
+}
+.sub:hover{
+	color: #638985;
+}
+
+img{
+	width: 70%;
+	height: 50%;
+	border-radius: 15%;
+	margin: 4%;
+}
+p{
+	font-size: 30px;
+}
